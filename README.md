@@ -1,1 +1,1 @@
-# Manual-Wala.com
+# Manual-Wala
